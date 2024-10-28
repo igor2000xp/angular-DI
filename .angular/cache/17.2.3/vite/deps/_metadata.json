@@ -1,0 +1,49 @@
+{
+  "hash": "3c8d02a8",
+  "configHash": "27cbc8f3",
+  "lockfileHash": "72623e4c",
+  "browserHash": "e14d3c1c",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "582fbd03",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ad76c7ba",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "b4638553",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "22a9e111",
+      "needsInterop": false
+    },
+    "angular-in-memory-web-api": {
+      "src": "../../../../../node_modules/angular-in-memory-web-api/fesm2022/angular-in-memory-web-api.mjs",
+      "file": "angular-in-memory-web-api.js",
+      "fileHash": "45eb2028",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TPQYQMYT": {
+      "file": "chunk-TPQYQMYT.js"
+    },
+    "chunk-7CP7SGJ5": {
+      "file": "chunk-7CP7SGJ5.js"
+    },
+    "chunk-4BURJU25": {
+      "file": "chunk-4BURJU25.js"
+    }
+  }
+}
